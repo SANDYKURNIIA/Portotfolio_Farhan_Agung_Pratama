@@ -47,7 +47,7 @@ nav a:hover {
 .container {
     text-align: center;
     background-color: #A0937D;
-    padding: 50px;
+    padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     margin-top: 20px;
@@ -74,7 +74,7 @@ p {
 
 .social-media a {
     display: inline-block;
-    margin: 10px;
+    margin: 20px;
     color: #ffff;
     text-decoration: none;
     border: 1px solid #fff;
@@ -91,5 +91,5 @@ p {
 footer {
     
     font-size: 0.8em;
-    padding:200px;
+
 }
